@@ -6,7 +6,7 @@ SignalGo is a library for Cross-Platform developers that makes it incredibly sim
 
 ##Quick Usage angularjs Client-Side:
 
-first download SignalGo.js from [here](https://github.com/SignalGo/client-angularjs/releases);
+first download SignalGo.js from [here](https://github.com/seyedabbasseyedi/SignalGo-client-angularjs/blob/master/SignalGo.js);
 
 then define your angular service According to the example:
 
