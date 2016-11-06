@@ -14,7 +14,7 @@ then define your angular service According to the example:
 SignalGo-service.js :
 
 ```js
-    taxiApp.service('signalGo', function () {
+    testApp.service('signalGo', function () {
     this.firstTime = true;
     this.connecting = false;
     this.attemptToConnect = 0;
